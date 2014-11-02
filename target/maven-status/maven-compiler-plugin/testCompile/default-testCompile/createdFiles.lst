@@ -1,0 +1,4 @@
+com/bakendo/app/service/UserServiceTest.class
+com/bakendo/app/web/rest/AccountResourceTest.class
+com/bakendo/app/web/rest/UserResourceTest.class
+com/bakendo/app/web/rest/TestUtil.class
