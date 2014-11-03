@@ -1,2 +1,2 @@
-README for bakendo
+README for bknd
 ==========================
